@@ -1,5 +1,5 @@
 def main():
-    print("Hello from graphrag!")
+    print("Hello from Arango!")
 
 
 if __name__ == "__main__":
